@@ -1,4 +1,8 @@
 ALX
 #!/bin/bash
 #!/bin/bash
+<<<<<<< HEAD
 ALX School is so cool!
+=======
+“ALX School”
+>>>>>>> update_script
